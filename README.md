@@ -9,7 +9,7 @@
 - Bootstrap 5
 - CSS
 
-🌱 I’m currently learning **JAVA** to expand my coding skills.
+🌱 I’m currently learning **Vue、JAVA** to expand my coding skills,and you can find my learning records on [Medium](https://medium.com/@el.huai97)
 
 📫 You can reach me by emailing **[el.huai97@gmail.com](mailto:el.huai97@gmail.com)**.
 
