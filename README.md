@@ -3,8 +3,11 @@
 👀 I’m interested in **reading**, **yoga**, and **exploring new things**.
 
 ✨ Currently, I’m working with **development tools** like:
-- React.js
+- React
+- Angular 
+- Vue2
 - Python
+- Django
 - Node.js
 - Bootstrap 5
 - CSS
