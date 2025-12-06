@@ -32,5 +32,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0078D4?logo=visual-studio-code&logoColor=white&style=flat)
 
-## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elhuai&layout=compact&theme=radical)
